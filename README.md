@@ -10,8 +10,8 @@ The rootkit was born to evaluate anomaly detection approaches based on kernel fu
 
 <ins>__Important Disclaimer__</ins>: Caraxes is purely for educational and academic purposes. The software is provided "as is" and the authors are not responsible for any damage or mishaps that may occur during its use. Do not attempt to use Caraxes to violate the law. Misuse of the provided software and information may result in criminal charges.
 
-If you use any of the resources provided in this repository, please cite the following publication:
-* Landauer, M., Alton, L., Lindorfer, M., Skopik, F., Wurzenberger, M., & Hotwagner, W. (2025). Trace of the Times: Rootkit Detection through Temporal Anomalies in Kernel Activity. Under Review.
+**If you use any of the resources provided in this repository, please cite the following publication:**
+* Landauer, M., Alton, L., Lindorfer, M., Skopik, F., Wurzenberger, M., & Hotwagner, W. (2025). [Trace of the Times: Rootkit Detection through Temporal Anomalies in Kernel Activity](https://doi.org/10.1145/3770085). Digital Threats: Research and Practice. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3770085)\]
 
 ## Compilation
 
